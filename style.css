@@ -12744,14 +12744,10 @@ a img {
 }
 
 img {
-  max-width: 100%;
+  max-width: 80%;
+  max-height: 100%;
 }
 
-iframe {
-  width: 100%;
-  border: 0 !important;
-  overflow: hidden !important;
-}
 
 /* ----------------------------------------------------------------
 	Basic Layout Styles
@@ -34185,3 +34181,4 @@ body.dark {
   color: rgba(255, 255, 255, 0.4);
   background-color: rgba(0, 0, 0, 0.2);
 }
+
